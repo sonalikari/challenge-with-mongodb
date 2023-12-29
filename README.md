@@ -21,24 +21,24 @@
    
 ## http://localhost:3000/students
 
-![Screenshot (353)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/4da3f905-eec3-4263-a305-c1453e4d5ba2)
+![Screenshot (353)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/b1b46b14-89ee-49cf-ba4f-d5e6d6e781e7)
 
 ##  http://localhost:3000/address
 
-![Screenshot (354)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/894232b4-1669-40b9-b25c-a199be7711ff)
+![Screenshot (354)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/437bc289-fd4e-4230-a9eb-211886ad291e)
 
 ## http://localhost:3000/countries
 
-![Screenshot (355)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/08712d86-0956-4017-a0c0-e8795a57fab7)
+![Screenshot (355)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/57d567fc-23c7-47f3-afba-77acdafe2686)
 
 ## http://localhost:3000/states
 
-![Screenshot (356)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/51d9dccd-ab4b-4286-8ac4-4d8b031f89ac)
+![Screenshot (356)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/5f489698-9003-42db-a941-8745b928f0c7)
 
 ## http://localhost:3000/colleges
    
-![Screenshot (357)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/54223b66-9a9b-42da-86ed-b5c7a38b39b7)
+![Screenshot (357)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/4a959298-7e97-4187-a8e3-fa3c8abc6f01)
 
 ### Screenshot Of Mongodb
 
-![Screenshot (358)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/0d75a9c2-a43d-48f6-a2b8-e20ffd842877)
+![Screenshot (358)](https://github.com/sonalikari/challenge-with-mongodb/assets/90141326/062da901-68bf-4023-8025-6a8aedffc174)
